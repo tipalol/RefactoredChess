@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eC3TBX8WFJx5dEuqAkSwt/aYYgUMI/lNetj+7lvuwAAxd4fu/EA3w6Ac61MGeYmyi+AIlehAmY5DvXtJjlPb/A==",
+  "success": true,
+  "projectFilePath": "/Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Core/Chess.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/sorokindmitrij/.nuget/packages/stockfish.net/1.0.7/stockfish.net.1.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,47 @@
+@page
+<div class="container" style="margin-top: 30px">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="container">
+                <div class="row">
+                    <div class="" style="background-image: url('https://sun9-18.userapi.com/impg/6jZZEyFfBZS_swhek58_Yahv5PyldQNJiIpHxw/mWnHeynz7WI.jpg?size=777x1080&quality=96&sign=f91fe514ab3344ba294ccc30e172964a&type=album'); background-size: 100%; background-color: #1a1e21; width: 40px; height: 40px; border-radius: 50%;" id="opponentAvatar"></div>
+                    <div class="col-md-5">
+                        <p style="margin: 0">Компьютер</p>
+                        <p style="font-size: small">Rating: -1000</p>
+                    </div>
+                    <div class="col-md-5">
+                        <a id="flipButton" href=""><i class="fa fa-undo fa-fw icon-button" aria-hidden="true"></i></a>
+                        <a id="suicideButton" href=""><i class="fa fa-flag fa-fw icon-button" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div id="board" style="width: 400px; margin-top: 15px"></div>
+            <div style="margin-top: 10px" class="container">
+                            <div class="row">
+                                <div class="" style="background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.sndcdn.com%2Favatars-La4FSzPbdr4cIyRW-VSFhog-t500x500.jpg&f=1&nofb=1'); background-size: 100%; background-color: #1a1e21; width: 40px; height: 40px; border-radius: 50%;" id="opponentAvatar"></div>
+                                <div class="col-md-5">
+                                    <p style="margin: 0">My name</p>
+                                    <p style="font-size: small">Rating: 999</p>
+                                </div>
+                            </div>
+                        </div>
+            <label>Status:</label>
+            <div id="status"></div>
+            <div id="fen"></div>
+        </div>
+        <div class="col-md-6" style="background-color: rgba(0, 0, 0, 0.14);">
+            <button type="button" id="searchButton" class="btn btn-success btn-lg">Играть против компьютера</button>
+            <div id="turnHistory">
+                <label>История ходов:</label>
+                <div id="pgn" style="overflow-y: scroll; height:400px;"></div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/chessjs/chess.js"></script>
+<script src="~/lib/boardjs/js/chessboard-1.0.0.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/3.1.7/signalr.min.js"></script>
+<script src="~/js/clientchess.js"></script>

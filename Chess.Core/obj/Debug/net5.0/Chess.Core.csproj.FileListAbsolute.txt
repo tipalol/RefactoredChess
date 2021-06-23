@@ -1,0 +1,12 @@
+/Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Core/bin/Debug/net5.0/Chess.Core.deps.json
+/Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Core/bin/Debug/net5.0/Chess.Core.dll
+/Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Core/bin/Debug/net5.0/ref/Chess.Core.dll
+/Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Core/bin/Debug/net5.0/Chess.Core.pdb
+/Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Core/obj/Debug/net5.0/Chess.Core.csprojAssemblyReference.cache
+/Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Core/obj/Debug/net5.0/Chess.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Core/obj/Debug/net5.0/Chess.Core.AssemblyInfoInputs.cache
+/Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Core/obj/Debug/net5.0/Chess.Core.AssemblyInfo.cs
+/Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Core/obj/Debug/net5.0/Chess.Core.csproj.CoreCompileInputs.cache
+/Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Core/obj/Debug/net5.0/Chess.Core.dll
+/Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Core/obj/Debug/net5.0/ref/Chess.Core.dll
+/Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Core/obj/Debug/net5.0/Chess.Core.pdb

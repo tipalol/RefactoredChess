@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess.Core", "Chess.Core\Chess.Core.csproj", "{E4AB5139-1533-4857-A401-67281DF667CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess.Core.Tests", "Chess.Core.Tests\Chess.Core.Tests.csproj", "{05A1682B-2D86-45EF-BDD7-8F006D6CA2C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess.Web", "Chess.Web\Chess.Web.csproj", "{5074B17F-7E75-4A62-A7E9-D37EA15E4F96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess.Infrastructure", "Chess.Infrastructure\Chess.Infrastructure.csproj", "{4F2E84C8-C2E8-4944-9A97-D7BB99ED5543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4AB5139-1533-4857-A401-67281DF667CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AB5139-1533-4857-A401-67281DF667CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AB5139-1533-4857-A401-67281DF667CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AB5139-1533-4857-A401-67281DF667CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A1682B-2D86-45EF-BDD7-8F006D6CA2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A1682B-2D86-45EF-BDD7-8F006D6CA2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A1682B-2D86-45EF-BDD7-8F006D6CA2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A1682B-2D86-45EF-BDD7-8F006D6CA2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5074B17F-7E75-4A62-A7E9-D37EA15E4F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5074B17F-7E75-4A62-A7E9-D37EA15E4F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5074B17F-7E75-4A62-A7E9-D37EA15E4F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5074B17F-7E75-4A62-A7E9-D37EA15E4F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F2E84C8-C2E8-4944-9A97-D7BB99ED5543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2E84C8-C2E8-4944-9A97-D7BB99ED5543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2E84C8-C2E8-4944-9A97-D7BB99ED5543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2E84C8-C2E8-4944-9A97-D7BB99ED5543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

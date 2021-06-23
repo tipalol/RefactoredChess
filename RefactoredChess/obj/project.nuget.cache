@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9o65IDFlrnGtzGHIRrGZKcWvjL3aBuKutdNY+VIA+mXQIP+yEXYlX5GVgwVZnT8acPG9bV4iEM6IAYE9YgLLRg==",
+  "success": true,
+  "projectFilePath": "/Users/sorokindmitrij/RiderProjects/RefactoredChess/RefactoredChess/RefactoredChess.csproj",
+  "expectedPackageFiles": [
+    "/Users/sorokindmitrij/.nuget/packages/serilog/2.10.0/serilog.2.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
