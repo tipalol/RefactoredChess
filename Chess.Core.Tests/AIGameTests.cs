@@ -40,7 +40,5 @@ namespace Chess.Core.Tests
             
             Assert.True(string.IsNullOrWhiteSpace(visual) == false);
         }
-        
-        
     }
 }

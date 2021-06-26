@@ -25,7 +25,7 @@ namespace Chess.Web.Hubs
         public async Task Login(string login)
         {
             Context.Items.Add(UserInfoContextKey, login);
-            
+
             //TODO: connect to wordpress db
             Logger.Information($"New client logged in {login}", login);
             await Clients.Caller.SendAsync("LoggedIn", login);
@@ -33,7 +33,6 @@ namespace Chess.Web.Hubs
 
         public async Task Play()
         {
-            Logger.Debug(Path.Combine(Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location).ToString() + "/sf_13/src/stockfish"));
             var game = new AIGame();
 
             if (Context.Items.ContainsKey(GameContextKey))

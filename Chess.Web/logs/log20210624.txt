@@ -1,0 +1,150 @@
+2021-06-24 18:26:21.126 +03:00 [DBG] /Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Web/bin/Debug/net5.0/sf_13/src/stockfish
+2021-06-24 18:26:24.352 +03:00 [INF] Player Fyodor Likhachev started new game vs AI
+2021-06-24 18:26:40.497 +03:00 [DBG] Player Fyodor Likhachev made move e2 to e4
+2021-06-24 18:26:41.328 +03:00 [DBG] AI plays g8f6 g8 f6
+2021-06-24 18:26:52.654 +03:00 [DBG] Player Fyodor Likhachev made move b1 to c3
+2021-06-24 18:26:53.478 +03:00 [DBG] AI plays c7c5 c7 c5
+2021-06-24 18:26:58.267 +03:00 [DBG] Player Fyodor Likhachev made move f1 to d3
+2021-06-24 18:26:59.104 +03:00 [DBG] AI plays b8c6 b8 c6
+2021-06-24 18:27:10.227 +03:00 [DBG] /Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Web/bin/Debug/net5.0/sf_13/src/stockfish
+2021-06-24 18:27:12.800 +03:00 [INF] Player Fyodor Likhachev started new game vs AI
+2021-06-24 18:28:51.756 +03:00 [DBG] /Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Web/bin/Debug/net5.0/sf_13/src/stockfish
+2021-06-24 18:28:55.016 +03:00 [INF] Player Fyodor Likhachev started new game vs AI
+2021-06-24 18:29:27.540 +03:00 [DBG] Player Fyodor Likhachev made move e2 to e4
+2021-06-24 18:29:28.367 +03:00 [DBG] AI plays e7e5 e7 e5
+2021-06-24 18:29:49.150 +03:00 [DBG] Player Fyodor Likhachev made move g1 to f3
+2021-06-24 18:29:49.996 +03:00 [DBG] AI plays d7d5 d7 d5
+2021-06-24 18:30:40.917 +03:00 [DBG] Player Fyodor Likhachev made move f3 to e5
+2021-06-24 18:30:41.759 +03:00 [DBG] AI plays f8d6 f8 d6
+2021-06-24 18:30:59.009 +03:00 [DBG] Player Fyodor Likhachev made move d2 to d4
+2021-06-24 18:30:59.837 +03:00 [DBG] AI plays d5e4 d5 e4
+2021-06-24 18:31:23.019 +03:00 [DBG] Player Fyodor Likhachev made move f1 to c4
+2021-06-24 18:31:23.859 +03:00 [DBG] AI plays d6e5 d6 e5
+2021-06-24 18:31:41.159 +03:00 [DBG] Player Fyodor Likhachev made move d4 to e5
+2021-06-24 18:31:42.002 +03:00 [DBG] AI plays d8d1 d8 d1
+2021-06-24 18:31:46.587 +03:00 [DBG] Player Fyodor Likhachev made move e1 to d1
+2021-06-24 18:31:47.419 +03:00 [DBG] AI plays b8c6 b8 c6
+2021-06-24 18:31:56.349 +03:00 [DBG] Player Fyodor Likhachev made move c4 to b5
+2021-06-24 18:31:57.174 +03:00 [DBG] AI plays g8e7 g8 e7
+2021-06-24 18:32:02.067 +03:00 [DBG] Player Fyodor Likhachev made move c2 to c4
+2021-06-24 18:32:02.901 +03:00 [DBG] AI plays e8g8 e8 g8
+2021-06-24 18:32:09.680 +03:00 [DBG] Player Fyodor Likhachev made move h1 to e1
+2021-06-24 18:32:10.504 +03:00 [DBG] AI plays f8d8 f8 d8
+2021-06-24 18:32:16.016 +03:00 [DBG] Player Fyodor Likhachev made move c1 to d2
+2021-06-24 18:32:16.848 +03:00 [DBG] AI plays c6e5 c6 e5
+2021-06-24 18:32:23.337 +03:00 [DBG] Player Fyodor Likhachev made move e1 to e4
+2021-06-24 18:32:24.162 +03:00 [DBG] AI plays e7g6 e7 g6
+2021-06-24 18:32:28.497 +03:00 [DBG] Player Fyodor Likhachev made move f2 to f4
+2021-06-24 18:32:29.326 +03:00 [DBG] AI plays e5g4 e5 g4
+2021-06-24 18:33:13.335 +03:00 [DBG] Player Fyodor Likhachev made move d1 to e1
+2021-06-24 18:33:14.170 +03:00 [DBG] AI plays c8f5 c8 f5
+2021-06-24 18:33:39.354 +03:00 [DBG] Player Fyodor Likhachev made move e4 to e2
+2021-06-24 18:33:40.194 +03:00 [DBG] AI plays f5d3 f5 d3
+2021-06-24 18:34:51.668 +03:00 [DBG] Player Fyodor Likhachev made move h2 to h3
+2021-06-24 18:34:52.496 +03:00 [DBG] AI plays d3e2 d3 e2
+2021-06-24 18:34:56.486 +03:00 [DBG] Player Fyodor Likhachev made move e1 to e2
+2021-06-24 18:34:57.313 +03:00 [DBG] AI plays a7a6 a7 a6
+2021-06-24 18:35:12.010 +03:00 [DBG] Player Fyodor Likhachev made move b5 to a4
+2021-06-24 18:35:12.843 +03:00 [DBG] AI plays g4h2 g4 h2
+2021-06-24 18:35:17.174 +03:00 [DBG] Player Fyodor Likhachev made move b1 to c3
+2021-06-24 18:35:18.007 +03:00 [DBG] AI plays h7h5 h7 h5
+2021-06-24 18:35:39.291 +03:00 [DBG] Player Fyodor Likhachev made move a1 to h1
+2021-06-24 18:35:40.125 +03:00 [DBG] AI plays b7b5 b7 b5
+2021-06-24 18:35:50.065 +03:00 [DBG] Player Fyodor Likhachev made move a4 to c2
+2021-06-24 18:35:50.903 +03:00 [DBG] AI plays b5b4 b5 b4
+2021-06-24 18:35:59.598 +03:00 [DBG] Player Fyodor Likhachev made move c3 to d5
+2021-06-24 18:36:00.432 +03:00 [DBG] AI plays c7c6 c7 c6
+2021-06-24 18:36:03.342 +03:00 [DBG] Player Fyodor Likhachev made move d5 to b4
+2021-06-24 18:36:04.167 +03:00 [DBG] AI plays c6c5 c6 c5
+2021-06-24 18:36:09.824 +03:00 [DBG] Player Fyodor Likhachev made move b4 to c6
+2021-06-24 18:36:10.658 +03:00 [DBG] AI plays d8e8 d8 e8
+2021-06-24 18:36:18.497 +03:00 [DBG] Player Fyodor Likhachev made move e2 to f2
+2021-06-24 18:36:19.329 +03:00 [DBG] AI plays e8e6 e8 e6
+2021-06-24 18:36:34.941 +03:00 [DBG] Player Fyodor Likhachev made move c6 to e5
+2021-06-24 18:36:35.775 +03:00 [DBG] AI plays e6d6 e6 d6
+2021-06-24 18:36:43.992 +03:00 [DBG] Player Fyodor Likhachev made move d2 to c3
+2021-06-24 18:36:44.821 +03:00 [DBG] AI plays g6e5 g6 e5
+2021-06-24 18:36:49.236 +03:00 [DBG] Player Fyodor Likhachev made move c3 to e5
+2021-06-24 18:36:50.076 +03:00 [DBG] AI plays d6d2 d6 d2
+2021-06-24 18:37:07.233 +03:00 [DBG] Player Fyodor Likhachev made move f2 to e3
+2021-06-24 18:37:08.072 +03:00 [DBG] AI plays d2g2 d2 g2
+2021-06-24 18:37:19.785 +03:00 [DBG] Player Fyodor Likhachev made move c2 to e4
+2021-06-24 18:37:20.622 +03:00 [DBG] AI plays h2f1 h2 f1
+2021-06-24 18:37:30.454 +03:00 [DBG] Player Fyodor Likhachev made move h1 to f1
+2021-06-24 18:37:31.297 +03:00 [DBG] AI plays g2g3 g2 g3
+2021-06-24 18:37:38.429 +03:00 [DBG] Player Fyodor Likhachev made move e3 to f2
+2021-06-24 18:37:39.262 +03:00 [DBG] AI plays g3h3 g3 h3
+2021-06-24 18:37:41.763 +03:00 [DBG] Player Fyodor Likhachev made move e4 to a8
+2021-06-24 18:37:42.602 +03:00 [DBG] AI plays h3h2 h3 h2
+2021-06-24 18:37:47.452 +03:00 [DBG] Player Fyodor Likhachev made move f2 to g1
+2021-06-24 18:37:48.290 +03:00 [DBG] AI plays h2c2 h2 c2
+2021-06-24 18:38:12.358 +03:00 [DBG] Player Fyodor Likhachev made move f1 to f2
+2021-06-24 18:38:13.185 +03:00 [DBG] AI plays c2c1 c2 c1
+2021-06-24 18:38:14.854 +03:00 [DBG] Player Fyodor Likhachev made move g1 to g2
+2021-06-24 18:38:15.691 +03:00 [DBG] AI plays c1c4 c1 c4
+2021-06-24 18:38:25.874 +03:00 [DBG] Player Fyodor Likhachev made move g2 to g3
+2021-06-24 18:38:26.708 +03:00 [DBG] AI plays c4b4 c4 b4
+2021-06-24 18:38:41.048 +03:00 [DBG] Player Fyodor Likhachev made move g3 to h4
+2021-06-24 18:38:41.890 +03:00 [DBG] AI plays g7g6 g7 g6
+2021-06-24 18:38:44.368 +03:00 [DBG] Player Fyodor Likhachev made move h4 to g5
+2021-06-24 18:38:45.207 +03:00 [DBG] AI plays b4b6 b4 b6
+2021-06-24 18:39:08.329 +03:00 [DBG] Player Fyodor Likhachev made move f4 to f5
+2021-06-24 18:39:09.158 +03:00 [DBG] AI plays h5h4 h5 h4
+2021-06-24 18:39:22.690 +03:00 [DBG] Player Fyodor Likhachev made move g5 to h4
+2021-06-24 18:39:23.518 +03:00 [DBG] AI plays b6b5 b6 b5
+2021-06-24 18:39:38.140 +03:00 [DBG] Player Fyodor Likhachev made move a8 to d5
+2021-06-24 18:39:38.974 +03:00 [DBG] AI plays g6f5 g6 f5
+2021-06-24 18:39:41.824 +03:00 [DBG] Player Fyodor Likhachev made move f2 to f5
+2021-06-24 18:39:42.659 +03:00 [DBG] AI plays b5b6 b5 b6
+2021-06-24 18:39:46.267 +03:00 [DBG] Player Fyodor Likhachev made move d5 to f7
+2021-06-24 18:39:47.087 +03:00 [DBG] AI plays g8f8 g8 f8
+2021-06-24 18:39:57.818 +03:00 [DBG] Player Fyodor Likhachev made move f7 to d5
+2021-06-24 18:39:58.650 +03:00 [DBG] AI plays f8e8 f8 e8
+2021-06-24 18:40:21.301 +03:00 [DBG] Player Fyodor Likhachev made move h4 to g4
+2021-06-24 18:40:22.129 +03:00 [DBG] AI plays e8d7 e8 d7
+2021-06-24 18:40:24.098 +03:00 [DBG] Player Fyodor Likhachev made move g4 to f4
+2021-06-24 18:40:24.934 +03:00 [DBG] AI plays b6b4 b6 b4
+2021-06-24 18:40:35.414 +03:00 [DBG] Player Fyodor Likhachev made move d5 to e4
+2021-06-24 18:40:36.247 +03:00 [DBG] AI plays d7e7 d7 e7
+2021-06-24 18:40:49.613 +03:00 [DBG] Player Fyodor Likhachev made move a2 to a3
+2021-06-24 18:40:50.441 +03:00 [DBG] AI plays b4b5 b4 b5
+2021-06-24 18:40:59.330 +03:00 [DBG] Player Fyodor Likhachev made move f5 to f6
+2021-06-24 18:41:00.171 +03:00 [DBG] AI plays a6a5 a6 a5
+2021-06-24 18:41:16.039 +03:00 [DBG] Player Fyodor Likhachev made move e4 to d5
+2021-06-24 18:41:16.874 +03:00 [DBG] AI plays a5a4 a5 a4
+2021-06-24 18:41:23.597 +03:00 [DBG] Player Fyodor Likhachev made move f6 to f7
+2021-06-24 18:41:24.426 +03:00 [DBG] AI plays e7e8 e7 e8
+2021-06-24 18:41:41.308 +03:00 [DBG] Player Fyodor Likhachev made move f7 to a7
+2021-06-24 18:41:42.146 +03:00 [DBG] AI plays e8f8 e8 f8
+2021-06-24 18:41:56.392 +03:00 [DBG] Player Fyodor Likhachev made move e5 to d6
+2021-06-24 18:41:57.230 +03:00 [DBG] AI plays f8e8 f8 e8
+2021-06-24 18:42:03.808 +03:00 [DBG] Player Fyodor Likhachev made move d5 to f7
+2021-06-24 18:42:04.643 +03:00 [DBG] AI plays e8d8 e8 d8
+2021-06-24 18:42:27.498 +03:00 [DBG] Player Fyodor Likhachev made move d6 to c7
+2021-06-24 18:42:28.334 +03:00 [DBG] AI plays d8e7 d8 e7
+2021-06-24 18:42:37.249 +03:00 [DBG] Player Fyodor Likhachev made move c7 to e5
+2021-06-24 18:42:38.084 +03:00 [DBG] AI plays e7f8 e7 f8
+2021-06-24 18:42:41.723 +03:00 [DBG] Player Fyodor Likhachev made move e5 to d6
+2021-06-24 18:42:42.549 +03:00 [DBG] AI plays f8g7 f8 g7
+2021-06-24 18:42:47.466 +03:00 [DBG] Player Fyodor Likhachev made move d6 to e5
+2021-06-24 18:42:48.294 +03:00 [DBG] AI plays g7f8 g7 f8
+2021-06-24 18:42:52.373 +03:00 [DBG] Player Fyodor Likhachev made move f7 to g6
+2021-06-24 18:42:53.202 +03:00 [DBG] AI plays b5b6 b5 b6
+2021-06-24 18:43:06.852 +03:00 [DBG] Player Fyodor Likhachev made move g6 to h7
+2021-06-24 18:43:07.680 +03:00 [DBG] AI plays b6c6 b6 c6
+2021-06-24 18:43:19.973 +03:00 [DBG] Player Fyodor Likhachev made move a7 to a4
+2021-06-24 18:43:20.800 +03:00 [DBG] AI plays c6b6 c6 b6
+2021-06-24 18:43:25.159 +03:00 [DBG] Player Fyodor Likhachev made move a4 to a7
+2021-06-24 18:43:25.992 +03:00 [DBG] AI plays c5c4 c5 c4
+2021-06-24 18:43:29.497 +03:00 [DBG] Player Fyodor Likhachev made move a3 to a4
+2021-06-24 18:43:30.327 +03:00 [DBG] AI plays b6e6 b6 e6
+2021-06-24 18:43:34.278 +03:00 [DBG] Player Fyodor Likhachev made move a4 to a5
+2021-06-24 18:43:35.108 +03:00 [DBG] AI plays e6e7 e6 e7
+2021-06-24 18:43:43.048 +03:00 [DBG] Player Fyodor Likhachev made move a7 to e7
+2021-06-24 18:43:43.883 +03:00 [DBG] AI plays f8e7 f8 e7
+2021-06-24 18:43:45.545 +03:00 [DBG] Player Fyodor Likhachev made move a5 to a6
+2021-06-24 18:43:46.389 +03:00 [DBG] AI plays e7d7 e7 d7
+2021-06-24 18:43:48.106 +03:00 [DBG] Player Fyodor Likhachev made move a6 to a7
+2021-06-24 18:43:48.939 +03:00 [DBG] AI plays d7e6 d7 e6
+2021-06-24 18:47:10.989 +03:00 [DBG] /Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Web/bin/Debug/net5.0/sf_13/src/stockfish
+2021-06-24 18:47:13.556 +03:00 [INF] Player Fyodor Likhachev started new game vs AI

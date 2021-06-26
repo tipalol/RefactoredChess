@@ -27,7 +27,7 @@ document.getElementById("searchButton").addEventListener("click", function (even
     event.preventDefault();
 });
 
-var connection = new signalR.HubConnectionBuilder().withUrl("/aiGame").build();
+var connection = new signalR.HubConnectionBuilder().withUrl("https://webapp-210626165009.azurewebsites.net/proxyHub").build();
 //---------------Configuration - End----------------
 
 //---------------First Login------------------------

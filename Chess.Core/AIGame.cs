@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.IO;
 using Stockfish.NET;
 
 namespace Chess.Core
@@ -9,28 +8,26 @@ namespace Chess.Core
     {
         public const string PlayerDefaultSide = "white";
         
-        private const string PathToEngine = "/sf_13/src/stockfish";
+        private const string PathToEngine = "/app/sf_13/src/stockfish";
         private const int Depth = 2;
-        private const int Difficulty = 6;
+        private const int Difficulty = 15;
 
         private readonly IStockfish _engine;
-        private string GetFullPath => Path.Combine(Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location).ToString() + "/sf_13/src/stockfish");
-
-        private List<string> _moves = new List<string>();
+        private readonly List<string> _moves = new ();
 
         public AIGame()
         {
-            _engine = new Stockfish.NET.Stockfish(GetFullPath)
+            _engine = new Stockfish.NET.Stockfish(PathToEngine)
             {
                 Depth = Depth,
                 SkillLevel = Difficulty
             };
         }
-///Users/sorokindmitrij/RiderProjects/RefactoredChess/Chess.Web/bin/Debug/net5.0/sf_13/src/stockfish
+
         public string Move(string from, string to)
         {
             if (_engine.IsMoveCorrect(from + to) == false)
-                throw new Exception("Move is incorrect!");
+                throw new Exception($"Move is incorrect! From {from} To {to}");
             
             _moves.Add(from + to);
             _engine.SetPosition(_moves.ToArray());
